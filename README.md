@@ -1,4 +1,5 @@
-# wordcount_custom
+# wordcount_custom_reducer
+
 This is a sample MapReduce job with a customized FileOutputCommitter to specify a different output directory for each reducer.
 
 Env tested is MapR 5.2 with both Hadoop 2.7 and Hadoop 0.20.2
